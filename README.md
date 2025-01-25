@@ -1,6 +1,6 @@
 # syswatcher
 
-A new Flutter project.
+New flutter project currently in development contains the info view about system on your device including Android & iOS
 
 ## Getting Started
 
